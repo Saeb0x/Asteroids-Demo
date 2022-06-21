@@ -2,7 +2,7 @@
 A recreation of the classic space-themed shooter video game Asteroids, made with TwoDimensional game engine!
 
 ## About TwoDimensional game engine
-https://github.com/saebnaser/TwoDimensional.git
+https://github.com/Saeb0x/TwoDimensional.git
 
 ## Dependencies
 -SDL2
